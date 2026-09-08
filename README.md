@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
 
-<h3 align="center">|AWS, Artificial Intelligence, Machine Learning, Business Analysis| </h3>
+<h3 align="center">AWS | Artificial Intelligence | Machine Learning | Business Analysis</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AWS Artificial Intelligence Machine Learning Business Analysis/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AWS;Artificial+Intelligence;Machine+Learning;Business+Analysis"/>
 </p>
 
 <p align="center">
@@ -18,14 +18,14 @@
 
 # 👨‍💻 About Me
 
-- 🎓 BCA graduate with an interest in Technology, Business & Data
-- 📊 Interested in **Business Analysis, Data Analysis & Process Improvement**
-- ☁️ Passionate about **AWS, AI&ML, BUSINESS ANALYSIS **
-- 💻 Technical background in **PYTHON, SQL, AI&ML**
-- 📈 Interested in transforming business requirements and data into practical solutions
-- 🌱 Currently learning **Business Analysis, SQL, Excel, Power BI, AWS & Cloud Technologies**
-- 🚀 Building projects that combine **Business, Data & Technology**
-- 📫 **Email:** **amitk20040@gmail.com**
+* 🎓 BCA graduate with an interest in Technology, Business & Data
+* 📊 Interested in **Business Analysis, Data Analysis & Process Improvement**
+* ☁️ Passionate about **AWS, Artificial Intelligence, Machine Learning & Business Analysis**
+* 💻 Technical background in **Python, SQL, AI & Machine Learning**
+* 📈 Interested in transforming business requirements and data into practical solutions
+* 🌱 Currently learning **Business Analysis, SQL, Excel, Power BI, AWS & Cloud Technologies**
+* 🚀 Building projects that combine **Business, Data & Technology**
+* 📫 **Email:** **[amitk20040@gmail.com](mailto:amitk20040@gmail.com)**
 
 ---
 
@@ -57,6 +57,10 @@
 
 <img src="https://img.shields.io/badge/Cloud%20Computing-232F3E?style=for-the-badge&logo=icloud&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 </p>
 
 ---
@@ -65,56 +69,71 @@
 
 ### 📊 Business Analysis & Data
 
-- Business Analysis
-- Requirements Gathering
-- Requirement Documentation
-- User Stories & Use Cases
-- Process Mapping
-- AS-IS / TO-BE Analysis
-- Gap Analysis
-- UAT
-- Stakeholder Management
-- SQL
-- Microsoft Excel
-- Power BI
+* Business Analysis
+* Requirements Gathering
+* Requirements Documentation
+* User Stories & Use Cases
+* Acceptance Criteria
+* Process Mapping
+* AS-IS / TO-BE Analysis
+* Gap Analysis
+* UAT
+* Stakeholder Management
+* SQL
+* Microsoft Excel
+* Power BI
 
 ### ☁️ AWS & Cloud Computing
 
-- AWS
-- IAM
-- EC2
-- VPC
-- CIDR
-- EBS
-- AMI
-- S3
-- S3 Versioning
-- S3 Replication
-- RDS
-- CloudFront
-- Auto Scaling
-- SNS
+* AWS
+* IAM
+* EC2
+* VPC
+* CIDR
+* EBS
+* AMI
+* S3
+* S3 Versioning
+* S3 Replication
+* RDS
+* CloudFront
+* Auto Scaling
+* SNS
 
 ### ⚙️ Cloud & DevOps
 
-- Terraform
-- Docker
-- Linux
-- AWS CLI
-- Git
-- GitHub
+* Terraform
+* Docker
+* Linux
+* Unix Shell Scripting
+* AWS CLI
+* Git
+* GitHub
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+* Machine Learning Fundamentals
+* Data Preprocessing
+* Regression
+* Classification
+* Clustering
+* Model Evaluation
+* Basic Statistics
+* NumPy
+* Pandas
+* Scikit-learn
 
 ### 💻 Programming & Development
 
-- Python
-- HTML
-- CSS
-- JavaScript
+* Python
+* HTML
+* CSS
+* JavaScript
 
 ### 🗄️ Databases & Tools
 
-- MySQL
-- VS Code
+* MySQL
+* VS Code
 
 ---
 
@@ -124,15 +143,15 @@
 
 #### 📦 Logistics Management & Process Improvement
 
-- Analyzed logistics workflows to identify process improvement opportunities.
-- Created **AS-IS / TO-BE process models**.
-- Documented business requirements and improvement areas.
+* Analyzed logistics workflows to identify process improvement opportunities.
+* Created **AS-IS / TO-BE process models**.
+* Documented business requirements and improvement areas.
 
 #### 📈 Sales & Business Performance Analysis
 
-- Analyzed sales data using **SQL, Excel and Power BI**.
-- Created dashboards to track business KPIs.
-- Identified trends and generated actionable business insights.
+* Analyzed sales data using **SQL, Excel and Power BI**.
+* Created dashboards to track business KPIs.
+* Identified trends and generated actionable business insights.
 
 ---
 
@@ -140,43 +159,44 @@
 
 #### ☁️ AWS Infrastructure using Terraform
 
-- Automated AWS infrastructure provisioning using Terraform.
-- Worked with **EC2, S3 and IAM**.
-- Used Terraform workflows including `init`, `plan`, `apply` and `destroy`.
+* Automated AWS infrastructure provisioning using Terraform.
+* Worked with **EC2, S3 and IAM**.
+* Used Terraform workflows including `init`, `plan`, `apply` and `destroy`.
 
 #### 🌐 Static Website Hosting using Amazon S3 & CloudFront
 
-- Hosted a static website using **Amazon S3**.
-- Configured **Amazon CloudFront** for content delivery.
-- Configured IAM policies and S3 permissions.
+* Hosted a static website using **Amazon S3**.
+* Configured **Amazon CloudFront** for content delivery.
+* Configured IAM policies and S3 permissions.
 
 #### 🐳 Dockerized Full-Stack Application
 
-- Containerized a full-stack application using Docker.
-- Worked with **React.js, Spring Boot and PostgreSQL**.
-- Created and managed Docker images and containers.
+* Containerized a full-stack application using Docker.
+* Worked with **React.js, Spring Boot and PostgreSQL**.
+* Created and managed Docker images and containers.
 
 #### ☸️ Kubernetes Application Deployment
 
-- Deployed containerized applications using Kubernetes.
-- Worked with Kubernetes deployments, services and configuration.
+* Deployed containerized applications using Kubernetes.
+* Worked with Kubernetes deployments, services and configuration.
 
 #### 🔄 CI/CD Pipeline using Jenkins
 
-- Created a CI/CD pipeline using Jenkins.
-- Automated application build and deployment processes.
+* Created a CI/CD pipeline using Jenkins.
+* Automated application build and deployment processes.
 
 ---
 
 # 📚 Currently Learning
 
-- 📊 Business Analysis
-- 🗄️ SQL & Data Analytics
-- 📈 Microsoft Excel
-- 📊 Power BI
-- ☁️ AWS Cloud Computing
-- 🐳 Docker
-- 🏗️ Terraform
+* 📊 Business Analysis
+* 🗄️ SQL & Data Analytics
+* 📈 Microsoft Excel
+* 📊 Power BI
+* ☁️ AWS Cloud Computing
+* 🐳 Docker
+* 🏗️ Terraform
+* 🤖 Artificial Intelligence & Machine Learning
 
 ---
 
