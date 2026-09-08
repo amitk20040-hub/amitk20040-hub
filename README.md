@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
 
-<h3 align="center">Business Analyst Enthusiast | AWS & Cloud Computing Enthusiast</h3>
+<h3 align="center">AWS Artificial Intelligence Machine Learning Business Analysis </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Business+Analysis;AWS+Cloud+Computing;Cloud+Technology"/>
@@ -20,8 +20,8 @@
 
 - 🎓 BCA graduate with an interest in Technology, Business & Data
 - 📊 Interested in **Business Analysis, Data Analysis & Process Improvement**
-- ☁️ Passionate about **AWS AI&ML BUSINESS ANALYSIS **
-- 💻 Technical background in **PYTHON SQL AI&ML**
+- ☁️ Passionate about **AWS, AI&ML, BUSINESS ANALYSIS **
+- 💻 Technical background in **PYTHON, SQL, AI&ML**
 - 📈 Interested in transforming business requirements and data into practical solutions
 - 🌱 Currently learning **Business Analysis, SQL, Excel, Power BI, AWS & Cloud Technologies**
 - 🚀 Building projects that combine **Business, Data & Technology**
@@ -99,9 +99,6 @@
 
 - Terraform
 - Docker
-- Kubernetes
-- CI/CD
-- Jenkins
 - Linux
 - AWS CLI
 - Git
@@ -109,21 +106,14 @@
 
 ### 💻 Programming & Development
 
-- Java
 - Python
-- Spring Boot
 - HTML
 - CSS
 - JavaScript
-- React.js
-- REST APIs
 
 ### 🗄️ Databases & Tools
 
 - MySQL
-- PostgreSQL
-- MongoDB
-- Postman
 - VS Code
 
 ---
@@ -186,9 +176,7 @@
 - 📊 Power BI
 - ☁️ AWS Cloud Computing
 - 🐳 Docker
-- ☸️ Kubernetes
 - 🏗️ Terraform
-- 🔄 CI/CD
 
 ---
 
