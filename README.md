@@ -7,7 +7,7 @@
 <h3 align="center">|AWS, Artificial Intelligence, Machine Learning, Business Analysis| </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Business+Analysis;AWS+Cloud+Computing;Cloud+Technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AWS Artificial Intelligence Machine Learning Business Analysis/>
 </p>
 
 <p align="center">
