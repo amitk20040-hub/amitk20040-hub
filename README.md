@@ -18,10 +18,10 @@
 
 # 👨‍💻 About Me
 
-- 🎓 BCA Student with an interest in Technology, Business & Data
+- 🎓 BCA graduate with an interest in Technology, Business & Data
 - 📊 Interested in **Business Analysis, Data Analysis & Process Improvement**
-- ☁️ Passionate about **AWS & Cloud Computing**
-- 💻 Technical background in **Java, SQL & Backend Development**
+- ☁️ Passionate about **AWS AI&ML BUSINESS ANALYSIS **
+- 💻 Technical background in **PYTHON SQL AI&ML**
 - 📈 Interested in transforming business requirements and data into practical solutions
 - 🌱 Currently learning **Business Analysis, SQL, Excel, Power BI, AWS & Cloud Technologies**
 - 🚀 Building projects that combine **Business, Data & Technology**
