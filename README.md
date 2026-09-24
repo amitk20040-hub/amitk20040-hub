@@ -8,7 +8,6 @@
   />
 </p>
 
-
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
@@ -19,7 +18,6 @@
     alt="Typing Animation"
   />
 </p>
-
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 
@@ -299,8 +297,8 @@
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=amitk20040-hub&theme=tokyo-night"
-  alt="Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=amitk20040-hub&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+  alt="Amit Kumar GitHub Contribution Graph"
 />
 
 </p>
@@ -312,8 +310,8 @@
 <p align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=amitk20040-hub&theme=tokyonight&margin-w=15"
-  alt="GitHub Trophies"
+  src="https://github-profile-trophy.vercel.app/?username=amitk20040-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"
+  alt="Amit Kumar GitHub Trophies"
 />
 
 </p>
@@ -322,4 +320,10 @@
 
 # 💡 Quote
 
-> **"Understand the problem. Analyze the data. Build the solution."**
+<p align="center">
+
+<strong>
+"Understand the problem. Analyze the data. Build the solution."
+</strong>
+
+</p>
