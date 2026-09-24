@@ -8,6 +8,7 @@
   />
 </p>
 
+
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
@@ -18,6 +19,7 @@
     alt="Typing Animation"
   />
 </p>
+
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 
@@ -37,9 +39,8 @@
 - ☁️ Passionate about **AWS, Artificial Intelligence, Machine Learning & Business Analysis**
 - 💻 Technical background in **Python, SQL, AI & Machine Learning**
 - 📈 Interested in transforming **business requirements and data into practical solutions**
-- 🌱 Currently learning **Business Analysis, SQL, Excel, Power BI, AWS & Cloud Technologies**
 - 🚀 Building projects that combine **Business, Data & Technology**
-- 📫 **Email:** [amitk20040@gmail.com](mailto:amitk20040@gmail.com)
+- 📫 **Email:** **[amitk20040@gmail.com](mailto:amitk20040@gmail.com)**
 
 ---
 
@@ -243,19 +244,6 @@
 
 - Created a CI/CD pipeline using **Jenkins**.
 - Automated application build and deployment processes.
-
----
-
-# 📚 Currently Learning
-
-- 📊 Business Analysis
-- 🗄️ SQL & Data Analytics
-- 📈 Microsoft Excel
-- 📊 Power BI
-- ☁️ AWS Cloud Computing
-- 🐳 Docker
-- 🏗️ Terraform
-- 🤖 Artificial Intelligence & Machine Learning
 
 ---
 
